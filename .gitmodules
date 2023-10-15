@@ -1,0 +1,3 @@
+[submodule "3rdparty/cohortintgrad"]
+	path = 3rdparty/cohortintgrad
+	url = https://github.com/cohortshapley/cohortintgrad
