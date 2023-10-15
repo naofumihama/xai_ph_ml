@@ -4,3 +4,6 @@
 [submodule "3rdparty/tobacco_1.0"]
 	path = 3rdparty/tobacco_1.0
 	url = https://github.com/tobacco-mofs/tobacco_1.0
+[submodule "3rdparty/moleculetda"]
+	path = 3rdparty/moleculetda
+	url = https://github.com/naofumihama/moleculetda.git
