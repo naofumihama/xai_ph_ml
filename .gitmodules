@@ -1,3 +1,6 @@
 [submodule "3rdparty/cohortintgrad"]
 	path = 3rdparty/cohortintgrad
 	url = https://github.com/cohortshapley/cohortintgrad
+[submodule "3rdparty/tobacco_1.0"]
+	path = 3rdparty/tobacco_1.0
+	url = https://github.com/tobacco-mofs/tobacco_1.0
