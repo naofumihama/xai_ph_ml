@@ -20,7 +20,7 @@ import util_xtda_chem
 def cat_feat_ver1(
     item="Methane",
     pressure_item=100,
-    tobacco_dir: str = "tobacco_1.0/tobacco_1.0-master",
+    tobacco_dir: str = "3rdparty/tobacco_1.0",
 ):  # dirname
     dat = pd.read_csv(os.path.join(tobacco_dir, "mofs_map.dat"), sep="  ", header=None)
     dat[2] = dat[1].apply(lambda x: x.split("_")[0])
